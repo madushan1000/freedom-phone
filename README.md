@@ -29,6 +29,7 @@ Since fabricating a custom chip is going to cost a lot, at least initially we'll
 * [risc-v](https://riscv.org/)
 * risc-v SOC: [rocket chip](https://github.com/chipsalliance/rocket-chip)
 * risc-v SOC: [shakti](https://shakti.org.in/)
+* risc-v CPU: [VexRiscv](https://github.com/SpinalHDL/VexRiscv) -- optimized for fpga, looks like a better fit.
 * risc-v GPU: [libresoc](https://libre-riscv.org/3d_gpu/)
 
 ### Baseband/wifi/bluetooth
