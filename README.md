@@ -34,6 +34,7 @@ Since fabricating a custom chip is going to cost a lot, at least initially we'll
 
 ### Baseband/wifi/bluetooth
 * celullar : [maybe osmocom?](https://osmocom.org/)
+* LTE : [fa18-modem](https://github.com/ucberkeley-ee290c/fa18-modem)
 * wifi: [openwifi](https://github.com/open-sdr/openwifi)
 * bluetooth [opercores](https://opencores.org/projects/bluetooth)
 
