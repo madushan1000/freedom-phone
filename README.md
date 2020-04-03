@@ -40,3 +40,4 @@ Since fabricating a custom chip is going to cost a lot, at least initially we'll
 
 ### tools
 * [symbiflow](https://symbiflow.github.io/)
+* demo board with ecp5/ecp5-5g: [ulx3s](https://github.com/emard/ulx3s)
